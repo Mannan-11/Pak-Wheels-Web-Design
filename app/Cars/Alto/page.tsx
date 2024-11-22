@@ -16,7 +16,7 @@ export default function Alto (){
                </div>
                <div className="font-serif text-2xl text-green-500 font-semibold">PKR 25,00,000</div>
                <div>
-                <button className="border border-solid m-10 bg-blue-600 rounded-lg py-2 px-5 font-serif text-sm text-white ml-4 w-40 hover:font-bold hover:bg-blue-700"><Link href="/Payment">Make Payment</Link></button>
+                <button className="border border-solid m-10 bg-blue-600 rounded-lg py-5 px-2 font-serif text-sm text-white ml-4 w-40 hover:font-bold hover:bg-blue-700"><Link href="/Payment">Make Payment</Link></button>
                </div>
 
         </div>
